@@ -126,6 +126,8 @@ h1 {
   border-radius: 999px;
   padding: 7px 16px;
 }
+.store-note a { color: var(--accent); font-weight: 600; }
+.store-note a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
 /* 스크린샷 */
 .gallery { padding: 8px 0 8px; }
